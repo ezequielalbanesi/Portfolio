@@ -42,8 +42,5 @@ ScrollReveal().reveal(".serviceContainer", { delay: 650});
 ScrollReveal().reveal(".Portfoliotittle", { delay: 350 });
 ScrollReveal().reveal(".PortfolioText", { delay: 450});
 ScrollReveal().reveal(".parentPortfolio", { delay: 650});
-ScrollReveal().reveal(".footerTittle", { delay: 650});
-ScrollReveal().reveal(".footerText", { delay: 850});
+ScrollReveal().reveal(".footerTittle", { delay: 450});
 
-footerTittle
-footerText
